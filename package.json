@@ -1,0 +1,13 @@
+{
+  "name": "@boennemann/yarn-test-module",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Stephan Bönnemann <stephan@boennemann.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@boennemann/semver-fail-module": "^1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
